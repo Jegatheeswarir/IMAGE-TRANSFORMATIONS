@@ -15,10 +15,15 @@ Read the input image using cv2.imread() and store it in a variable for further p
  
 ### Step3:
 Apply various transformations like translation, scaling, shearing, reflection, rotation, and cropping by defining corresponding functions:
+
  1.Translation moves the image along the x or y-axis. 
+ 
  2.Scaling resizes the image by scaling factors.
+ 
  3.Shearing distorts the image along one axis. 
+ 
  4.Reflection flips the image horizontally or vertically.
+ 
  5.Rotation rotates the image by a given angle.
  
 ### Step4:
